@@ -1,2 +1,2 @@
 # Smart Filing Backend
-`Flask framework`
+`FastApi backend`
